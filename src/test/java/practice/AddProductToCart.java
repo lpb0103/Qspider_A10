@@ -46,6 +46,5 @@ public class AddProductToCart {
 		// Logout the application
 		driver.findElement(By.id("react-burger-menu-btn")).click();
 		driver.findElement(By.id("logout_sidebar_link")).click();
-		System.out.println("for checking POLL SCM BUIL TIGGER");
 	}
 }
