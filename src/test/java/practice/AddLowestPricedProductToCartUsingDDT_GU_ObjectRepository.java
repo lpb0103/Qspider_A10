@@ -88,7 +88,6 @@ public class AddLowestPricedProductToCartUsingDDT_GU_ObjectRepository {
 
 		// Logout the application
 		ip.logoutOfApp();
-		System.out.println("########Goodbye from AddLowestPricedProductToCartUsingDDT_GU_ObjectRepository######");
 
 	}
 }
